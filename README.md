@@ -13,7 +13,7 @@
 
 ## Live Preview
 
-* :heart_decoration: Muse scheme: [xulayen](http://xulayen.imwork.net/) | [XiaMo](https://notes.wanghao.work) | [OAwan](https://oawan.me) | [Hui Wang](http://hui-wang.info)
+* :heart_decoration: Muse scheme: [Xulayen](http://xulayen.imwork.net/) | [XiaMo](https://notes.wanghao.work) | [OAwan](https://oawan.me) | [Hui Wang](http://hui-wang.info)
 * :six_pointed_star: Mist scheme: [Jeff](https://blog.zzbd.org) | [uchuhimo](http://uchuhimo.me) | [xirong](http://www.ixirong.com)
 * :pisces: Pisces scheme: [Vi](http://notes.iissnan.com) | [Acris](https://blog.mrx.one) | [Rainy](https://rainylog.com)
 * :gemini: Gemini scheme: [Ivan.Nginx](https://almostover.ru) | [Alynx](http://sh.alynx.xyz) | [Raincal](https://raincal.top)
